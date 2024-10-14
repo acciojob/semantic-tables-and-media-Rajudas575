@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table, td, th {  
+  border: 1px solid #ddd;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
